@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Logging my problem solving journey
+Logging my DSA journey one problem at a time 
